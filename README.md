@@ -1,7 +1,7 @@
-#Angular 2 - Simple Setup#
-This repo provides a set of instructions on how to get started with Angular 2. You may choose to just clone the repo and use the set as is, or you can start from scratch by following the instructions provided below.
+#Angular 2 - Simple Setup
+This repo provides a set of instructions on how to get started with Angular 2. You may choose to just clone the repo and use it as is, or you can start from scratch by following the instructions provided below.
 
-The repo only have the bare minimum of files. It includes no fancy package management, test setup, modules or application structure.
+The repo only has the bare minimum of files. It includes no fancy package management, test setup, modules or application structure.
 
 **Assumptions**: 
 
@@ -31,7 +31,7 @@ The repo only have the bare minimum of files. It includes no fancy package manag
 ###To compile the TypeScript file (continuously)
 `tsc --watch -m commonjs -t es5 --emitDecoratorMetadata --experimentalDecorators app.ts`
 
-###To run:
+###To run
 `http-serve` and open the URL it prints
 
 
